@@ -12,9 +12,9 @@ function addElementToBeginningOfArray(array, element){
 }
 
 function destructivelyAddElementToBeginningOfArray(array, element){
-  var array = ['a', 'b', 'c', 'd'];
-  array.unshift('e');
-  console.log(array);
+  var fruit = ['banana', 'apple', 'pear', 'kiwi'];
+  fruit.unshift('orange');
+  console.log(fruit);
 }
 
 function addElementToEndOfArray(array, element){
