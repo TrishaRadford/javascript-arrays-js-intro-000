@@ -14,7 +14,7 @@ function addElementToBeginningOfArray(array, element){
 function destructivelyAddElementToBeginningOfArray(array, element){
   var fruit = ['banana', 'apple', 'pear', 'kiwi'];
   fruit.unshift('orange');
-  console.log(fruit);
+  
 }
 
 function addElementToEndOfArray(array, element){
