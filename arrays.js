@@ -5,8 +5,16 @@ var chocolateBars = [
   'skittles',
 ]
 
+function addElementToBeginningOfArray(){
 
-function addElementToEndOfArray(){
+
+}
+
+function destructivelyAddElementToBeginningOfArray(){
+
+}
+
+function addElementToEndOfArray(array){
 
 }
 
