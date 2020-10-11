@@ -13,7 +13,7 @@ function addElementToBeginningOfArray(array, element){
 
 function destructivelyAddElementToBeginningOfArray(array, element){
   var array = ['a', 'b', 'c', 'd'];
-  array.push('e');
+  array.unshift('e');
   console.log(array);
 }
 
