@@ -5,7 +5,7 @@ var chocolateBars = [
   'skittles',
 ]
 
-function addElementToBeginningOfArray(){
+function addElementToBeginningOfArray(array, element){
   var numbers = ['a', 'b', 'c', 'd'];
   numbers.unshift('a1');
 
