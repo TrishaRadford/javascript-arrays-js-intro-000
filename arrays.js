@@ -5,7 +5,7 @@ var chocolateBars = [
   'skittles',
 ]
 
-function addElementToBeginningOfArray(){
+function addElementToBeginningOfArray(array, element){
   var numbers = ['a', 'b', 'c', 'd'];
   numbers.unshift('a1');
 
@@ -27,6 +27,10 @@ function destructivelyAddElementToEndOfArray(array, element){
 
 }
 
+function accessElementInArray(array, index){
+  
+}
+
 function destructivelyRemoveElementFromBeginningOfArray(){
 
 }
@@ -36,5 +40,5 @@ function removeElementFromBeginningOfArray(){
 }
 
 function destructivelyRemoveElementFromEndOfArray(){
-  
+
 }
