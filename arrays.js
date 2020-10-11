@@ -1,0 +1,9 @@
+function addElementToEndOfArray(){
+  
+}
+
+
+function destructivelyAddElementToEndOfArray(){
+
+  
+}
